@@ -1,0 +1,22 @@
+{
+  "short_name": "Coffee",
+  "name": "Coffee Client",
+  "description": "Coffee client description.",
+  "start_url": "/?utm_source=pwa",
+  "scope": "/",
+  "display": "fullscreen",
+  "icons": [
+    {
+    "src": "/coffee-192.png",
+    "type": "image/png",
+    "sizes": "192x192"
+    },
+    {
+    "src": "/coffee-512.png",
+    "type": "image/png",
+    "sizes": "512x512"
+    }
+  ],
+  "theme_color": "#242424",
+  "background_color": "#242424"
+}
